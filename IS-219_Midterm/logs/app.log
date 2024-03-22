@@ -1,0 +1,168 @@
+2024-03-21 15:02:42,329 - root - INFO - Logging configured.
+2024-03-21 15:02:42,363 - root - INFO - Environment variables loaded.
+2024-03-21 15:02:42,429 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-21 15:02:48,949 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-21 15:02:48,959 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-21 15:02:48,966 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-21 15:02:48,976 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-21 15:02:48,981 - root - INFO - Command 'generate' from plugin 'generate' registered.
+2024-03-21 15:02:48,988 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-21 15:02:49,005 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-21 15:02:49,014 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-21 15:02:49,020 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-21 15:02:49,024 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-21 15:03:10,275 - root - INFO - List example: ['apple', 'banana', 'cherry']
+2024-03-21 15:03:10,282 - root - INFO - I pick an apple
+2024-03-21 15:03:10,282 - root - INFO - List after adding an item: ['apple', 'banana', 'cherry', 'date']
+2024-03-21 15:03:10,282 - root - INFO - Tuple example: (1, 2, 3, 4)
+2024-03-21 15:03:10,282 - root - INFO - Set example: {1, 2, 3, 4}
+2024-03-21 15:03:10,282 - root - INFO - whats different {1}
+2024-03-21 15:03:10,282 - root - INFO - Set after adding an item: {1, 2, 3, 4, 5}
+2024-03-21 15:03:10,290 - root - INFO - Dictionary example: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois'}
+2024-03-21 15:03:10,290 - root - INFO - Dictionary after adding a state: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois', 'NY': 'New York'}
+2024-03-21 15:03:10,296 - root - INFO - State Abbreviation: CA for: California
+2024-03-21 15:03:10,298 - root - INFO - State Abbreviation: NJ for: New Jersey
+2024-03-21 15:03:10,300 - root - INFO - State Abbreviation: TX for: Texas
+2024-03-21 15:03:10,300 - root - INFO - State Abbreviation: FL for: Florida
+2024-03-21 15:03:10,302 - root - INFO - State Abbreviation: IL for: Illinois
+2024-03-21 15:03:10,304 - root - INFO - State Abbreviation: NY for: New York
+2024-03-21 15:03:10,305 - root - INFO - State: CA
+2024-03-21 15:03:10,315 - root - INFO -     Capital: Sacramento
+2024-03-21 15:03:10,318 - root - INFO -     Population: 39538223
+2024-03-21 15:03:10,322 - root - INFO -     Great: No
+2024-03-21 15:03:10,324 - root - INFO - State: TX
+2024-03-21 15:03:10,327 - root - INFO -     Capital: Austin
+2024-03-21 15:03:10,329 - root - INFO -     Population: 29145505
+2024-03-21 15:03:10,331 - root - INFO -     Great: Yes
+2024-03-21 15:03:10,333 - root - INFO - State: NJ
+2024-03-21 15:03:10,336 - root - INFO -     Capital: Trenton
+2024-03-21 15:03:10,339 - root - INFO -     Population: 50
+2024-03-21 15:03:10,345 - root - INFO -     Great: Yes
+2024-03-21 15:03:10,349 - root - INFO -     Good hot dogs: yes
+2024-03-21 15:03:10,353 - root - INFO -     Where: Rutts hutt
+2024-03-21 15:03:29,606 - root - INFO - Application exit.
+2024-03-21 15:03:29,611 - root - INFO - Application shutdown.
+2024-03-21 15:04:52,303 - root - INFO - Logging configured.
+2024-03-21 15:04:52,309 - root - INFO - Environment variables loaded.
+2024-03-21 15:04:52,335 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-21 15:04:54,343 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-21 15:04:54,347 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-21 15:04:54,349 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-21 15:04:54,349 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-21 15:04:54,357 - root - INFO - Command 'generate' from plugin 'generate' registered.
+2024-03-21 15:04:54,361 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-21 15:04:54,371 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-21 15:04:54,375 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-21 15:04:54,384 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-21 15:04:54,387 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-21 15:04:59,224 - root - INFO - States saved to CSV at './data\states.csv'.
+2024-03-21 15:04:59,224 - root - INFO - the relative path  to save my file is ./data\gpt_states.csv
+2024-03-21 15:04:59,235 - root - INFO - the absolute path  to save my file is C:\Users\dmjmq\VSCode_Projects\IS-219_MidtermRepo\IS-219_Midterm\data\gpt_states.csv
+2024-03-21 15:04:59,255 - root - INFO - Record 0: CA: California
+2024-03-21 15:04:59,257 - root - INFO - Index: 0,     State Abbreviation: CA
+2024-03-21 15:04:59,259 - root - INFO - Index: 0,     State Name: California
+2024-03-21 15:04:59,261 - root - INFO - Index: 0,     Population: 39538223
+2024-03-21 15:04:59,264 - root - INFO - Index: 0,     Capital: Sacramento
+2024-03-21 15:04:59,265 - root - INFO - Index: 0,     GDP: 3.1T
+2024-03-21 15:04:59,267 - root - INFO - Record 1: NJ: New Jersey
+2024-03-21 15:04:59,270 - root - INFO - Index: 1,     State Abbreviation: NJ
+2024-03-21 15:04:59,274 - root - INFO - Index: 1,     State Name: New Jersey
+2024-03-21 15:04:59,274 - root - INFO - Index: 1,     Population: 8882190
+2024-03-21 15:04:59,278 - root - INFO - Index: 1,     Capital: Trenton
+2024-03-21 15:04:59,278 - root - INFO - Index: 1,     GDP: 0.6T
+2024-03-21 15:04:59,282 - root - INFO - Record 2: TX: Texas
+2024-03-21 15:04:59,286 - root - INFO - Index: 2,     State Abbreviation: TX
+2024-03-21 15:04:59,288 - root - INFO - Index: 2,     State Name: Texas
+2024-03-21 15:04:59,291 - root - INFO - Index: 2,     Population: 29145505
+2024-03-21 15:04:59,293 - root - INFO - Index: 2,     Capital: Austin
+2024-03-21 15:04:59,295 - root - INFO - Index: 2,     GDP: 1.9T
+2024-03-21 15:04:59,298 - root - INFO - Record 3: FL: Florida
+2024-03-21 15:04:59,298 - root - INFO - Index: 3,     State Abbreviation: FL
+2024-03-21 15:04:59,298 - root - INFO - Index: 3,     State Name: Florida
+2024-03-21 15:04:59,306 - root - INFO - Index: 3,     Population: 21538187
+2024-03-21 15:04:59,306 - root - INFO - Index: 3,     Capital: Tallahassee
+2024-03-21 15:04:59,312 - root - INFO - Index: 3,     GDP: 1.1T
+2024-03-21 15:04:59,315 - root - INFO - Record 4: IL: Illinois
+2024-03-21 15:04:59,315 - root - INFO - Index: 4,     State Abbreviation: IL
+2024-03-21 15:04:59,320 - root - INFO - Index: 4,     State Name: Illinois
+2024-03-21 15:04:59,323 - root - INFO - Index: 4,     Population: 12671821
+2024-03-21 15:04:59,325 - root - INFO - Index: 4,     Capital: Springfield
+2024-03-21 15:04:59,329 - root - INFO - Index: 4,     GDP: 0.9T
+2024-03-21 15:04:59,332 - root - INFO - Record 5: NY: New York
+2024-03-21 15:04:59,332 - root - INFO - Index: 5,     State Abbreviation: NY
+2024-03-21 15:04:59,334 - root - INFO - Index: 5,     State Name: New York
+2024-03-21 15:04:59,339 - root - INFO - Index: 5,     Population: 20201249
+2024-03-21 15:04:59,340 - root - INFO - Index: 5,     Capital: Albany
+2024-03-21 15:04:59,340 - root - INFO - Index: 5,     GDP: 1.7T
+2024-03-21 15:05:14,185 - root - INFO - Application exit.
+2024-03-21 15:05:14,187 - root - INFO - Application shutdown.
+2024-03-21 18:48:16,547 - root - INFO - Logging configured.
+2024-03-21 18:48:16,551 - root - INFO - Environment variables loaded.
+2024-03-21 18:48:16,590 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-21 18:48:18,528 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-21 18:48:18,532 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-21 18:48:18,534 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-21 18:48:18,538 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-21 18:48:18,542 - root - INFO - Command 'generate' from plugin 'generate' registered.
+2024-03-21 18:48:18,546 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-21 18:48:18,548 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-21 18:48:18,556 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-21 18:48:18,560 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-21 18:48:18,561 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-21 18:48:33,308 - root - INFO - States saved to CSV at './data\states.csv'.
+2024-03-21 18:48:33,314 - root - INFO - the relative path  to save my file is ./data\gpt_states.csv
+2024-03-21 18:48:33,315 - root - INFO - the absolute path  to save my file is C:\Users\dmjmq\VSCode_Projects\IS-219_MidtermRepo\IS-219_Midterm\data\gpt_states.csv
+2024-03-21 18:48:33,329 - root - INFO - Record 0: CA: California
+2024-03-21 18:48:33,329 - root - INFO - Index: 0,     State Abbreviation: CA
+2024-03-21 18:48:33,331 - root - INFO - Index: 0,     State Name: California
+2024-03-21 18:48:33,333 - root - INFO - Index: 0,     Population: 39538223
+2024-03-21 18:48:33,333 - root - INFO - Index: 0,     Capital: Sacramento
+2024-03-21 18:48:33,339 - root - INFO - Index: 0,     GDP: 3.1T
+2024-03-21 18:48:33,342 - root - INFO - Record 1: NJ: New Jersey
+2024-03-21 18:48:33,342 - root - INFO - Index: 1,     State Abbreviation: NJ
+2024-03-21 18:48:33,346 - root - INFO - Index: 1,     State Name: New Jersey
+2024-03-21 18:48:33,349 - root - INFO - Index: 1,     Population: 8882190
+2024-03-21 18:48:33,350 - root - INFO - Index: 1,     Capital: Trenton
+2024-03-21 18:48:33,352 - root - INFO - Index: 1,     GDP: 0.6T
+2024-03-21 18:48:33,366 - root - INFO - Record 2: TX: Texas
+2024-03-21 18:48:33,368 - root - INFO - Index: 2,     State Abbreviation: TX
+2024-03-21 18:48:33,368 - root - INFO - Index: 2,     State Name: Texas
+2024-03-21 18:48:33,373 - root - INFO - Index: 2,     Population: 29145505
+2024-03-21 18:48:33,373 - root - INFO - Index: 2,     Capital: Austin
+2024-03-21 18:48:33,373 - root - INFO - Index: 2,     GDP: 1.9T
+2024-03-21 18:48:33,381 - root - INFO - Record 3: FL: Florida
+2024-03-21 18:48:33,381 - root - INFO - Index: 3,     State Abbreviation: FL
+2024-03-21 18:48:33,387 - root - INFO - Index: 3,     State Name: Florida
+2024-03-21 18:48:33,387 - root - INFO - Index: 3,     Population: 21538187
+2024-03-21 18:48:33,387 - root - INFO - Index: 3,     Capital: Tallahassee
+2024-03-21 18:48:33,387 - root - INFO - Index: 3,     GDP: 1.1T
+2024-03-21 18:48:33,397 - root - INFO - Record 4: IL: Illinois
+2024-03-21 18:48:33,399 - root - INFO - Index: 4,     State Abbreviation: IL
+2024-03-21 18:48:33,399 - root - INFO - Index: 4,     State Name: Illinois
+2024-03-21 18:48:33,405 - root - INFO - Index: 4,     Population: 12671821
+2024-03-21 18:48:33,407 - root - INFO - Index: 4,     Capital: Springfield
+2024-03-21 18:48:33,408 - root - INFO - Index: 4,     GDP: 0.9T
+2024-03-21 18:48:33,410 - root - INFO - Record 5: NY: New York
+2024-03-21 18:48:33,412 - root - INFO - Index: 5,     State Abbreviation: NY
+2024-03-21 18:48:33,415 - root - INFO - Index: 5,     State Name: New York
+2024-03-21 18:48:33,416 - root - INFO - Index: 5,     Population: 20201249
+2024-03-21 18:48:33,416 - root - INFO - Index: 5,     Capital: Albany
+2024-03-21 18:48:33,421 - root - INFO - Index: 5,     GDP: 1.7T
+2024-03-21 18:49:47,781 - root - INFO - Application interrupted and exiting gracefully.
+2024-03-21 18:49:47,786 - root - INFO - Application shutdown.
+2024-03-21 21:48:21,882 - root - INFO - Logging configured.
+2024-03-21 21:48:21,888 - root - INFO - Environment variables loaded.
+2024-03-21 21:48:21,929 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-21 21:48:24,092 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-21 21:48:24,097 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-21 21:48:24,101 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-21 21:48:24,105 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-21 21:48:24,111 - root - INFO - Command 'generate' from plugin 'generate' registered.
+2024-03-21 21:48:24,115 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-21 21:48:24,115 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-21 21:48:24,123 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-21 21:48:24,129 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-21 21:48:24,129 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-21 21:48:29,469 - root - INFO - The numbers added are num1: 1.0; num2: 1.0
+2024-03-21 21:51:25,680 - root - INFO - Application interrupted and exiting gracefully.
+2024-03-21 21:51:25,681 - root - INFO - Application shutdown.

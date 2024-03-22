@@ -28,8 +28,8 @@ def test_app_menu_command(capfd, monkeypatch):
     with pytest.raises(SystemExit) as e:
         app.start()
 
-    assert str(e.value) == "Exiting...", "The app did not exit as expected" 
-        
+    assert str(e.value) == "Exiting...", "The app did not exit as expected"
+
 def test_add_command(capfd, monkeypatch):
     """Test the execution of the AddCommand."""
     inputs = iter(['5 7'])
@@ -51,8 +51,7 @@ def test_add_command_invalid_input(capfd, monkeypatch):
 
     out, _ = capfd.readouterr()
     assert out.strip() == "Please enter valid numbers."
-    
-    
+
 def test_subtract_command(capfd, monkeypatch):
     """Test the execution of the SubtractCommand."""
     inputs = iter(['7 7'])
@@ -74,7 +73,7 @@ def test_subtract_command_invalid_input(capfd, monkeypatch):
 
     out, _ = capfd.readouterr()
     assert out.strip() == "Please enter valid numbers."
-    
+
 def test_multiply_command(capfd, monkeypatch):
     """Test the execution of the MultiplyCommand."""
     inputs = iter(['5 7'])
@@ -96,7 +95,7 @@ def test_multiply_command_invalid_input(capfd, monkeypatch):
 
     out, _ = capfd.readouterr()
     assert out.strip() == "Please enter valid numbers."
-    
+
 def test_divide_command(capfd, monkeypatch):
     """Test the execution of the DivideCommand."""
     inputs = iter(['7 7'])
@@ -117,4 +116,4 @@ def test_divide_command_invalid_input(capfd, monkeypatch):
     command.execute()
 
     out, _ = capfd.readouterr()
-    assert out.strip() == "Please enter valid numbers."    
+    assert out.strip() == "Please enter valid numbers."

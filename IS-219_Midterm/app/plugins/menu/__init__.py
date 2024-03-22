@@ -1,7 +1,6 @@
 import sys
 from app.commands import Command
 
-
 class MenuCommand(Command):
     def execute(self):
         print(f'List of all commands: ')
@@ -12,3 +11,5 @@ class MenuCommand(Command):
         print(f'subtract')
         print(f'multiply')
         print(f'divide')
+        print(f'data')
+        print(f'csv')       
