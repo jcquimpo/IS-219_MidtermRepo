@@ -2,6 +2,7 @@
 
 import pytest
 from app import App
+from dotenv import load_dotenv
 
 def test_app_start_exit_command(capfd, monkeypatch):
     """Test that the REPL exits correctly on 'exit' command."""

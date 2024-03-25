@@ -3,7 +3,6 @@
 import pytest
 from app import App
 from dotenv import load_dotenv
-# from app.plugins.greet import GreetCommand
 from app.plugins.add import AddCommand
 from app.plugins.subtract import SubtractCommand
 from app.plugins.multiply import MultiplyCommand

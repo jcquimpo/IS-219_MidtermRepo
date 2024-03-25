@@ -574,3 +574,148 @@
 2024-03-25 15:55:33,251 - root - INFO - The numbers subtracted are num1: 7.0 & num2: 7.0; the difference is 0.0
 2024-03-25 15:55:33,314 - root - INFO - The numbers multiplied are num1: 5.0 & num2: 7.0; the product is 35.0
 2024-03-25 15:55:33,371 - root - INFO - The numbers divided are num1: 7.0 & num2: 7.0; the quotient is 1.0
+2024-03-25 16:03:46,814 - root - INFO - Logging configured.
+2024-03-25 16:03:46,819 - root - INFO - Environment variables loaded.
+2024-03-25 16:03:46,863 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-25 16:03:48,856 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-25 16:03:48,862 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-25 16:03:48,862 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-25 16:03:48,867 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-25 16:03:48,875 - root - INFO - Command 'generate' from plugin 'generate' registered.
+2024-03-25 16:03:48,880 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-25 16:03:48,885 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-25 16:03:48,885 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-25 16:03:48,895 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-25 16:03:48,897 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 16:04:13,201 - root - INFO - List example: ['apple', 'banana', 'cherry']
+2024-03-25 16:04:13,201 - root - INFO - I pick an apple
+2024-03-25 16:04:13,201 - root - INFO - List after adding an item: ['apple', 'banana', 'cherry', 'date']
+2024-03-25 16:04:13,201 - root - INFO - Tuple example: (1, 2, 3, 4)
+2024-03-25 16:04:13,206 - root - INFO - Set example: {1, 2, 3, 4}
+2024-03-25 16:04:13,207 - root - INFO - whats different {1}
+2024-03-25 16:04:13,209 - root - INFO - Set after adding an item: {1, 2, 3, 4, 5}
+2024-03-25 16:04:13,209 - root - INFO - Dictionary example: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois'}
+2024-03-25 16:04:13,211 - root - INFO - Dictionary after adding a state: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois', 'NY': 'New York'}
+2024-03-25 16:04:13,213 - root - INFO - State Abbreviation: CA for: California
+2024-03-25 16:04:13,214 - root - INFO - State Abbreviation: NJ for: New Jersey
+2024-03-25 16:04:13,216 - root - INFO - State Abbreviation: TX for: Texas
+2024-03-25 16:04:13,217 - root - INFO - State Abbreviation: FL for: Florida
+2024-03-25 16:04:13,219 - root - INFO - State Abbreviation: IL for: Illinois
+2024-03-25 16:04:13,219 - root - INFO - State Abbreviation: NY for: New York
+2024-03-25 16:04:13,221 - root - INFO - State: CA
+2024-03-25 16:04:13,223 - root - INFO -     Capital: Sacramento
+2024-03-25 16:04:13,230 - root - INFO -     Population: 39538223
+2024-03-25 16:04:13,232 - root - INFO -     Great: No
+2024-03-25 16:04:13,233 - root - INFO - State: TX
+2024-03-25 16:04:13,235 - root - INFO -     Capital: Austin
+2024-03-25 16:04:13,240 - root - INFO -     Population: 29145505
+2024-03-25 16:04:13,243 - root - INFO -     Great: Yes
+2024-03-25 16:04:13,243 - root - INFO - State: NJ
+2024-03-25 16:04:13,243 - root - INFO -     Capital: Trenton
+2024-03-25 16:04:13,249 - root - INFO -     Population: 50
+2024-03-25 16:04:13,251 - root - INFO -     Great: Yes
+2024-03-25 16:04:13,253 - root - INFO -     Good hot dogs: yes
+2024-03-25 16:04:13,256 - root - INFO -     Where: Rutts hutt
+2024-03-25 16:04:30,074 - root - INFO - States saved to CSV at './data\states.csv'.
+2024-03-25 16:04:30,076 - root - INFO - the relative path  to save my file is ./data\gpt_states.csv
+2024-03-25 16:04:30,076 - root - INFO - the absolute path  to save my file is C:\Users\dmjmq\VSCode_Projects\IS-219_MidtermRepo\IS-219_Midterm\data\gpt_states.csv
+2024-03-25 16:04:30,093 - root - INFO - Record 0: CA: California
+2024-03-25 16:04:30,095 - root - INFO - Index: 0,     State Abbreviation: CA
+2024-03-25 16:04:30,100 - root - INFO - Index: 0,     State Name: California
+2024-03-25 16:04:30,103 - root - INFO - Index: 0,     Population: 39538223
+2024-03-25 16:04:30,105 - root - INFO - Index: 0,     Capital: Sacramento
+2024-03-25 16:04:30,108 - root - INFO - Index: 0,     GDP: 3.1T
+2024-03-25 16:04:30,110 - root - INFO - Record 1: NJ: New Jersey
+2024-03-25 16:04:30,114 - root - INFO - Index: 1,     State Abbreviation: NJ
+2024-03-25 16:04:30,123 - root - INFO - Index: 1,     State Name: New Jersey
+2024-03-25 16:04:30,126 - root - INFO - Index: 1,     Population: 8882190
+2024-03-25 16:04:30,128 - root - INFO - Index: 1,     Capital: Trenton
+2024-03-25 16:04:30,132 - root - INFO - Index: 1,     GDP: 0.6T
+2024-03-25 16:04:30,134 - root - INFO - Record 2: TX: Texas
+2024-03-25 16:04:30,134 - root - INFO - Index: 2,     State Abbreviation: TX
+2024-03-25 16:04:30,140 - root - INFO - Index: 2,     State Name: Texas
+2024-03-25 16:04:30,140 - root - INFO - Index: 2,     Population: 29145505
+2024-03-25 16:04:30,144 - root - INFO - Index: 2,     Capital: Austin
+2024-03-25 16:04:30,148 - root - INFO - Index: 2,     GDP: 1.9T
+2024-03-25 16:04:30,153 - root - INFO - Record 3: FL: Florida
+2024-03-25 16:04:30,157 - root - INFO - Index: 3,     State Abbreviation: FL
+2024-03-25 16:04:30,157 - root - INFO - Index: 3,     State Name: Florida
+2024-03-25 16:04:30,162 - root - INFO - Index: 3,     Population: 21538187
+2024-03-25 16:04:30,164 - root - INFO - Index: 3,     Capital: Tallahassee
+2024-03-25 16:04:30,165 - root - INFO - Index: 3,     GDP: 1.1T
+2024-03-25 16:04:30,168 - root - INFO - Record 4: IL: Illinois
+2024-03-25 16:04:30,173 - root - INFO - Index: 4,     State Abbreviation: IL
+2024-03-25 16:04:30,173 - root - INFO - Index: 4,     State Name: Illinois
+2024-03-25 16:04:30,179 - root - INFO - Index: 4,     Population: 12671821
+2024-03-25 16:04:30,181 - root - INFO - Index: 4,     Capital: Springfield
+2024-03-25 16:04:30,184 - root - INFO - Index: 4,     GDP: 0.9T
+2024-03-25 16:04:30,185 - root - INFO - Record 5: NY: New York
+2024-03-25 16:04:30,188 - root - INFO - Index: 5,     State Abbreviation: NY
+2024-03-25 16:04:30,192 - root - INFO - Index: 5,     State Name: New York
+2024-03-25 16:04:30,193 - root - INFO - Index: 5,     Population: 20201249
+2024-03-25 16:04:30,196 - root - INFO - Index: 5,     Capital: Albany
+2024-03-25 16:04:30,198 - root - INFO - Index: 5,     GDP: 1.7T
+2024-03-25 16:20:22,422 - root - INFO - Logging configured.
+2024-03-25 16:20:22,430 - root - INFO - Environment variables loaded.
+2024-03-25 16:20:22,430 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-25 16:20:24,282 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-25 16:20:24,289 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-25 16:20:24,289 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-25 16:20:24,297 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-25 16:20:24,299 - root - INFO - Command 'generate' from plugin 'generate' registered.
+2024-03-25 16:20:24,311 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-25 16:20:24,318 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-25 16:20:24,318 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-25 16:20:24,318 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-25 16:20:24,318 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 16:20:24,318 - root - INFO - Application exit.
+2024-03-25 16:20:24,318 - root - INFO - Application shutdown.
+2024-03-25 16:20:24,350 - root - INFO - Logging configured.
+2024-03-25 16:20:24,359 - root - INFO - Environment variables loaded.
+2024-03-25 16:20:24,362 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-25 16:20:24,362 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-25 16:20:24,366 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-25 16:20:24,369 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-25 16:20:24,371 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-25 16:20:24,372 - root - INFO - Command 'generate' from plugin 'generate' registered.
+2024-03-25 16:20:24,376 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-25 16:20:24,376 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-25 16:20:24,376 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-25 16:20:24,376 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-25 16:20:24,376 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 16:20:24,382 - root - INFO - Application exit.
+2024-03-25 16:20:24,382 - root - INFO - Application shutdown.
+2024-03-25 16:20:24,420 - root - INFO - Logging configured.
+2024-03-25 16:20:24,425 - root - INFO - Environment variables loaded.
+2024-03-25 16:20:24,427 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-25 16:20:24,427 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-25 16:20:24,427 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-25 16:20:24,434 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-25 16:20:24,437 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-25 16:20:24,441 - root - INFO - Command 'generate' from plugin 'generate' registered.
+2024-03-25 16:20:24,444 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-25 16:20:24,444 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-25 16:20:24,444 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-25 16:20:24,449 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-25 16:20:24,449 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 16:20:24,449 - root - INFO - Application exit.
+2024-03-25 16:20:24,449 - root - INFO - Application shutdown.
+2024-03-25 16:20:24,486 - root - INFO - Logging configured.
+2024-03-25 16:20:24,490 - root - INFO - Environment variables loaded.
+2024-03-25 16:20:24,490 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-25 16:20:24,490 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-25 16:20:24,490 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-25 16:20:24,490 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-25 16:20:24,498 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-25 16:20:24,502 - root - INFO - Command 'generate' from plugin 'generate' registered.
+2024-03-25 16:20:24,506 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-25 16:20:24,507 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-25 16:20:24,507 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-25 16:20:24,507 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-25 16:20:24,507 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 16:20:24,514 - root - INFO - Application exit.
+2024-03-25 16:20:24,514 - root - INFO - Application shutdown.
+2024-03-25 16:20:24,552 - root - INFO - The numbers added are num1: 5.0 & num2: 7.0; the sum is 12.0
+2024-03-25 16:20:24,614 - root - INFO - The numbers subtracted are num1: 7.0 & num2: 7.0; the difference is 0.0
+2024-03-25 16:20:24,652 - root - INFO - The numbers multiplied are num1: 5.0 & num2: 7.0; the product is 35.0
+2024-03-25 16:20:24,685 - root - INFO - The numbers divided are num1: 7.0 & num2: 7.0; the quotient is 1.0
