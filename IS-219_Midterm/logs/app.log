@@ -166,3 +166,155 @@
 2024-03-21 21:48:29,469 - root - INFO - The numbers added are num1: 1.0; num2: 1.0
 2024-03-21 21:51:25,680 - root - INFO - Application interrupted and exiting gracefully.
 2024-03-21 21:51:25,681 - root - INFO - Application shutdown.
+2024-03-25 15:32:28,203 - root - INFO - Logging configured.
+2024-03-25 15:32:28,222 - root - INFO - Environment variables loaded.
+2024-03-25 15:32:28,278 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-25 15:32:36,277 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-25 15:32:36,282 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-25 15:32:36,300 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-25 15:32:36,308 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-25 15:32:36,312 - root - INFO - Command 'generate' from plugin 'generate' registered.
+2024-03-25 15:32:36,322 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-25 15:32:36,330 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-25 15:32:36,354 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-25 15:32:36,375 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-25 15:32:36,376 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 15:33:48,518 - root - INFO - States saved to CSV at './data\states.csv'.
+2024-03-25 15:33:48,519 - root - INFO - the relative path  to save my file is ./data\gpt_states.csv
+2024-03-25 15:33:48,521 - root - INFO - the absolute path  to save my file is C:\Users\dmjmq\VSCode_Projects\IS-219_MidtermRepo\IS-219_Midterm\data\gpt_states.csv
+2024-03-25 15:33:48,539 - root - INFO - Record 0: CA: California
+2024-03-25 15:33:48,543 - root - INFO - Index: 0,     State Abbreviation: CA
+2024-03-25 15:33:48,544 - root - INFO - Index: 0,     State Name: California
+2024-03-25 15:33:48,545 - root - INFO - Index: 0,     Population: 39538223
+2024-03-25 15:33:48,545 - root - INFO - Index: 0,     Capital: Sacramento
+2024-03-25 15:33:48,551 - root - INFO - Index: 0,     GDP: 3.1T
+2024-03-25 15:33:48,553 - root - INFO - Record 1: NJ: New Jersey
+2024-03-25 15:33:48,555 - root - INFO - Index: 1,     State Abbreviation: NJ
+2024-03-25 15:33:48,557 - root - INFO - Index: 1,     State Name: New Jersey
+2024-03-25 15:33:48,558 - root - INFO - Index: 1,     Population: 8882190
+2024-03-25 15:33:48,560 - root - INFO - Index: 1,     Capital: Trenton
+2024-03-25 15:33:48,563 - root - INFO - Index: 1,     GDP: 0.6T
+2024-03-25 15:33:48,565 - root - INFO - Record 2: TX: Texas
+2024-03-25 15:33:48,567 - root - INFO - Index: 2,     State Abbreviation: TX
+2024-03-25 15:33:48,567 - root - INFO - Index: 2,     State Name: Texas
+2024-03-25 15:33:48,574 - root - INFO - Index: 2,     Population: 29145505
+2024-03-25 15:33:48,574 - root - INFO - Index: 2,     Capital: Austin
+2024-03-25 15:33:48,579 - root - INFO - Index: 2,     GDP: 1.9T
+2024-03-25 15:33:48,584 - root - INFO - Record 3: FL: Florida
+2024-03-25 15:33:48,586 - root - INFO - Index: 3,     State Abbreviation: FL
+2024-03-25 15:33:48,586 - root - INFO - Index: 3,     State Name: Florida
+2024-03-25 15:33:48,589 - root - INFO - Index: 3,     Population: 21538187
+2024-03-25 15:33:48,589 - root - INFO - Index: 3,     Capital: Tallahassee
+2024-03-25 15:33:48,593 - root - INFO - Index: 3,     GDP: 1.1T
+2024-03-25 15:33:48,596 - root - INFO - Record 4: IL: Illinois
+2024-03-25 15:33:48,597 - root - INFO - Index: 4,     State Abbreviation: IL
+2024-03-25 15:33:48,604 - root - INFO - Index: 4,     State Name: Illinois
+2024-03-25 15:33:48,608 - root - INFO - Index: 4,     Population: 12671821
+2024-03-25 15:33:48,611 - root - INFO - Index: 4,     Capital: Springfield
+2024-03-25 15:33:48,612 - root - INFO - Index: 4,     GDP: 0.9T
+2024-03-25 15:33:48,616 - root - INFO - Record 5: NY: New York
+2024-03-25 15:33:48,618 - root - INFO - Index: 5,     State Abbreviation: NY
+2024-03-25 15:33:48,619 - root - INFO - Index: 5,     State Name: New York
+2024-03-25 15:33:48,622 - root - INFO - Index: 5,     Population: 20201249
+2024-03-25 15:33:48,624 - root - INFO - Index: 5,     Capital: Albany
+2024-03-25 15:33:48,624 - root - INFO - Index: 5,     GDP: 1.7T
+2024-03-25 15:33:50,976 - root - INFO - List example: ['apple', 'banana', 'cherry']
+2024-03-25 15:33:50,978 - root - INFO - I pick an apple
+2024-03-25 15:33:50,979 - root - INFO - List after adding an item: ['apple', 'banana', 'cherry', 'date']
+2024-03-25 15:33:50,983 - root - INFO - Tuple example: (1, 2, 3, 4)
+2024-03-25 15:33:50,983 - root - INFO - Set example: {1, 2, 3, 4}
+2024-03-25 15:33:50,987 - root - INFO - whats different {1}
+2024-03-25 15:33:50,987 - root - INFO - Set after adding an item: {1, 2, 3, 4, 5}
+2024-03-25 15:33:50,988 - root - INFO - Dictionary example: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois'}
+2024-03-25 15:33:50,990 - root - INFO - Dictionary after adding a state: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois', 'NY': 'New York'}
+2024-03-25 15:33:50,996 - root - INFO - State Abbreviation: CA for: California
+2024-03-25 15:33:50,999 - root - INFO - State Abbreviation: NJ for: New Jersey
+2024-03-25 15:33:51,002 - root - INFO - State Abbreviation: TX for: Texas
+2024-03-25 15:33:51,007 - root - INFO - State Abbreviation: FL for: Florida
+2024-03-25 15:33:51,010 - root - INFO - State Abbreviation: IL for: Illinois
+2024-03-25 15:33:51,012 - root - INFO - State Abbreviation: NY for: New York
+2024-03-25 15:33:51,014 - root - INFO - State: CA
+2024-03-25 15:33:51,021 - root - INFO -     Capital: Sacramento
+2024-03-25 15:33:51,022 - root - INFO -     Population: 39538223
+2024-03-25 15:33:51,026 - root - INFO -     Great: No
+2024-03-25 15:33:51,026 - root - INFO - State: TX
+2024-03-25 15:33:51,040 - root - INFO -     Capital: Austin
+2024-03-25 15:33:51,045 - root - INFO -     Population: 29145505
+2024-03-25 15:33:51,047 - root - INFO -     Great: Yes
+2024-03-25 15:33:51,048 - root - INFO - State: NJ
+2024-03-25 15:33:51,053 - root - INFO -     Capital: Trenton
+2024-03-25 15:33:51,056 - root - INFO -     Population: 50
+2024-03-25 15:33:51,059 - root - INFO -     Great: Yes
+2024-03-25 15:33:51,061 - root - INFO -     Good hot dogs: yes
+2024-03-25 15:33:51,064 - root - INFO -     Where: Rutts hutt
+2024-03-25 15:34:08,698 - root - INFO - The numbers added are num1: 1.0 & num2: 3.0; the sum is 4.0
+2024-03-25 15:34:33,844 - root - INFO - States saved to CSV at './data\states.csv'.
+2024-03-25 15:34:33,848 - root - INFO - the relative path  to save my file is ./data\gpt_states.csv
+2024-03-25 15:34:33,850 - root - INFO - the absolute path  to save my file is C:\Users\dmjmq\VSCode_Projects\IS-219_MidtermRepo\IS-219_Midterm\data\gpt_states.csv
+2024-03-25 15:34:33,866 - root - INFO - Record 0: CA: California
+2024-03-25 15:34:33,867 - root - INFO - Index: 0,     State Abbreviation: CA
+2024-03-25 15:34:33,867 - root - INFO - Index: 0,     State Name: California
+2024-03-25 15:34:33,871 - root - INFO - Index: 0,     Population: 39538223
+2024-03-25 15:34:33,879 - root - INFO - Index: 0,     Capital: Sacramento
+2024-03-25 15:34:33,883 - root - INFO - Index: 0,     GDP: 3.1T
+2024-03-25 15:34:33,886 - root - INFO - Record 1: NJ: New Jersey
+2024-03-25 15:34:33,888 - root - INFO - Index: 1,     State Abbreviation: NJ
+2024-03-25 15:34:33,891 - root - INFO - Index: 1,     State Name: New Jersey
+2024-03-25 15:34:33,894 - root - INFO - Index: 1,     Population: 8882190
+2024-03-25 15:34:33,895 - root - INFO - Index: 1,     Capital: Trenton
+2024-03-25 15:34:33,898 - root - INFO - Index: 1,     GDP: 0.6T
+2024-03-25 15:34:33,900 - root - INFO - Record 2: TX: Texas
+2024-03-25 15:34:33,903 - root - INFO - Index: 2,     State Abbreviation: TX
+2024-03-25 15:34:33,905 - root - INFO - Index: 2,     State Name: Texas
+2024-03-25 15:34:33,907 - root - INFO - Index: 2,     Population: 29145505
+2024-03-25 15:34:33,911 - root - INFO - Index: 2,     Capital: Austin
+2024-03-25 15:34:33,911 - root - INFO - Index: 2,     GDP: 1.9T
+2024-03-25 15:34:33,917 - root - INFO - Record 3: FL: Florida
+2024-03-25 15:34:33,919 - root - INFO - Index: 3,     State Abbreviation: FL
+2024-03-25 15:34:33,919 - root - INFO - Index: 3,     State Name: Florida
+2024-03-25 15:34:33,922 - root - INFO - Index: 3,     Population: 21538187
+2024-03-25 15:34:33,925 - root - INFO - Index: 3,     Capital: Tallahassee
+2024-03-25 15:34:33,927 - root - INFO - Index: 3,     GDP: 1.1T
+2024-03-25 15:34:33,930 - root - INFO - Record 4: IL: Illinois
+2024-03-25 15:34:33,932 - root - INFO - Index: 4,     State Abbreviation: IL
+2024-03-25 15:34:33,933 - root - INFO - Index: 4,     State Name: Illinois
+2024-03-25 15:34:33,936 - root - INFO - Index: 4,     Population: 12671821
+2024-03-25 15:34:33,941 - root - INFO - Index: 4,     Capital: Springfield
+2024-03-25 15:34:33,944 - root - INFO - Index: 4,     GDP: 0.9T
+2024-03-25 15:34:33,946 - root - INFO - Record 5: NY: New York
+2024-03-25 15:34:33,950 - root - INFO - Index: 5,     State Abbreviation: NY
+2024-03-25 15:34:33,950 - root - INFO - Index: 5,     State Name: New York
+2024-03-25 15:34:33,955 - root - INFO - Index: 5,     Population: 20201249
+2024-03-25 15:34:33,959 - root - INFO - Index: 5,     Capital: Albany
+2024-03-25 15:34:33,959 - root - INFO - Index: 5,     GDP: 1.7T
+2024-03-25 15:34:35,701 - root - INFO - List example: ['apple', 'banana', 'cherry']
+2024-03-25 15:34:35,704 - root - INFO - I pick an apple
+2024-03-25 15:34:35,705 - root - INFO - List after adding an item: ['apple', 'banana', 'cherry', 'date']
+2024-03-25 15:34:35,706 - root - INFO - Tuple example: (1, 2, 3, 4)
+2024-03-25 15:34:35,706 - root - INFO - Set example: {1, 2, 3, 4}
+2024-03-25 15:34:35,706 - root - INFO - whats different {1}
+2024-03-25 15:34:35,710 - root - INFO - Set after adding an item: {1, 2, 3, 4, 5}
+2024-03-25 15:34:35,710 - root - INFO - Dictionary example: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois'}
+2024-03-25 15:34:35,713 - root - INFO - Dictionary after adding a state: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois', 'NY': 'New York'}
+2024-03-25 15:34:35,713 - root - INFO - State Abbreviation: CA for: California
+2024-03-25 15:34:35,716 - root - INFO - State Abbreviation: NJ for: New Jersey
+2024-03-25 15:34:35,718 - root - INFO - State Abbreviation: TX for: Texas
+2024-03-25 15:34:35,718 - root - INFO - State Abbreviation: FL for: Florida
+2024-03-25 15:34:35,718 - root - INFO - State Abbreviation: IL for: Illinois
+2024-03-25 15:34:35,722 - root - INFO - State Abbreviation: NY for: New York
+2024-03-25 15:34:35,722 - root - INFO - State: CA
+2024-03-25 15:34:35,727 - root - INFO -     Capital: Sacramento
+2024-03-25 15:34:35,727 - root - INFO -     Population: 39538223
+2024-03-25 15:34:35,730 - root - INFO -     Great: No
+2024-03-25 15:34:35,731 - root - INFO - State: TX
+2024-03-25 15:34:35,734 - root - INFO -     Capital: Austin
+2024-03-25 15:34:35,738 - root - INFO -     Population: 29145505
+2024-03-25 15:34:35,738 - root - INFO -     Great: Yes
+2024-03-25 15:34:35,742 - root - INFO - State: NJ
+2024-03-25 15:34:35,745 - root - INFO -     Capital: Trenton
+2024-03-25 15:34:35,745 - root - INFO -     Population: 50
+2024-03-25 15:34:35,745 - root - INFO -     Great: Yes
+2024-03-25 15:34:35,752 - root - INFO -     Good hot dogs: yes
+2024-03-25 15:34:35,755 - root - INFO -     Where: Rutts hutt
+2024-03-25 15:38:04,323 - root - INFO - Application interrupted and exiting gracefully.
+2024-03-25 15:38:04,327 - root - INFO - Application shutdown.
