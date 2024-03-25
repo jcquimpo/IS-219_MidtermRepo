@@ -719,3 +719,37 @@
 2024-03-25 16:20:24,614 - root - INFO - The numbers subtracted are num1: 7.0 & num2: 7.0; the difference is 0.0
 2024-03-25 16:20:24,652 - root - INFO - The numbers multiplied are num1: 5.0 & num2: 7.0; the product is 35.0
 2024-03-25 16:20:24,685 - root - INFO - The numbers divided are num1: 7.0 & num2: 7.0; the quotient is 1.0
+2024-03-25 16:39:48,836 - root - INFO - Logging configured.
+2024-03-25 16:39:48,839 - root - INFO - Environment variables loaded.
+2024-03-25 16:39:48,839 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-25 16:39:50,762 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-25 16:39:50,762 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-25 16:39:50,762 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-25 16:39:50,769 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-25 16:39:50,769 - root - INFO - Command 'generate' from plugin 'generate' registered.
+2024-03-25 16:39:50,778 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-25 16:39:50,780 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-25 16:39:50,783 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-25 16:39:50,783 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-25 16:39:50,783 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 16:39:50,783 - root - INFO - Application exit.
+2024-03-25 16:39:50,783 - root - INFO - Application shutdown.
+2024-03-25 16:39:50,795 - root - INFO - Logging configured.
+2024-03-25 16:39:50,795 - root - INFO - Environment variables loaded.
+2024-03-25 16:39:50,802 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-25 16:39:50,802 - root - INFO - Command 'csv' from plugin 'csv' registered.
+2024-03-25 16:39:50,802 - root - INFO - Command 'data' from plugin 'data' registered.
+2024-03-25 16:39:50,802 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-25 16:39:50,802 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-25 16:39:50,802 - root - INFO - Command 'generate' from plugin 'generate' registered.
+2024-03-25 16:39:50,802 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-25 16:39:50,808 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-25 16:39:50,808 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-25 16:39:50,808 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-25 16:39:50,808 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 16:39:50,808 - root - INFO - Application exit.
+2024-03-25 16:39:50,810 - root - INFO - Application shutdown.
+2024-03-25 16:39:50,826 - root - INFO - The numbers added are num1: 5.0 & num2: 7.0; the sum is 12.0
+2024-03-25 16:39:50,877 - root - INFO - The numbers subtracted are num1: 7.0 & num2: 7.0; the difference is 0.0
+2024-03-25 16:39:50,924 - root - INFO - The numbers multiplied are num1: 5.0 & num2: 7.0; the product is 35.0
+2024-03-25 16:39:50,967 - root - INFO - The numbers divided are num1: 7.0 & num2: 7.0; the quotient is 1.0
