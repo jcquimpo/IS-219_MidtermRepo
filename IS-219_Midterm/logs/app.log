@@ -1061,3 +1061,16 @@
 2024-03-26 16:17:09,933 - root - INFO - The numbers subtracted are num1: 7.0 & num2: 7.0; the difference is 0.0
 2024-03-26 16:17:09,996 - root - INFO - The numbers multiplied are num1: 5.0 & num2: 7.0; the product is 35.0
 2024-03-26 16:17:10,076 - root - INFO - The numbers divided are num1: 7.0 & num2: 7.0; the quotient is 1.0
+2024-03-26 22:04:37,668 - root - INFO - Logging configured.
+2024-03-26 22:04:40,703 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-26 22:04:40,703 - root - INFO - Application exit.
+2024-03-26 22:04:40,704 - root - INFO - Application shutdown.
+2024-03-26 22:04:40,724 - root - INFO - Environment variables loaded.
+2024-03-26 22:04:40,730 - root - INFO - Logging configured.
+2024-03-26 22:04:40,743 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-26 22:04:40,743 - root - INFO - Application exit.
+2024-03-26 22:04:40,743 - root - INFO - Application shutdown.
+2024-03-26 22:04:40,801 - root - INFO - The numbers added are num1: 5.0 & num2: 7.0; the sum is 12.0
+2024-03-26 22:04:40,882 - root - INFO - The numbers subtracted are num1: 7.0 & num2: 7.0; the difference is 0.0
+2024-03-26 22:04:40,950 - root - INFO - The numbers multiplied are num1: 5.0 & num2: 7.0; the product is 35.0
+2024-03-26 22:04:41,013 - root - INFO - The numbers divided are num1: 7.0 & num2: 7.0; the quotient is 1.0
