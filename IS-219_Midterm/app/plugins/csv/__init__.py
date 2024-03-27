@@ -6,7 +6,7 @@ from app.plugins.add import AddCommand
 
 class CsvCommand(Command):
     def execute(self):
-        # Ensure the 'data' directory exists and is writable
+        # Checks if the 'data' directory exists and is writable
         data_dir = './data'
         if not os.path.exists(data_dir):
             os.makedirs(data_dir)
@@ -17,7 +17,6 @@ class CsvCommand(Command):
 
         csv_file_path = os.path.join(data_dir, 'operations_history.csv')
         logging.info(f'the relative path  to save my file is {csv_file_path}')
-        # Read the CSV file back into a DataFrame
         absolute_path = os.path.abspath(csv_file_path)
         logging.info(f'the absolute path  to save my file is {absolute_path}')
         df_read_operations = pd.read_csv(csv_file_path)
@@ -39,7 +38,7 @@ class CsvCommand(Command):
                 print(f"Record {index}: {operation_info}")
                 logging.info(f"Record {index}: {operation_info}")
 
-                # Then, iterate through each field in the row to print and log
+                # Iterate through each field in the row to print and log
                 for field in row.index:
                     field_info = f"    {field}: {row[field]}"
                     print(field_info)
