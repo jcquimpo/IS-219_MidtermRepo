@@ -1,16 +1,14 @@
-'''test_app.py'''
+"""test_app.py"""
 
 import pytest
 from app import App
 
-def test_app_start_exit_command(capfd, monkeypatch):
+def test_app_start_exit_command(monkeypatch):
     """Test that the REPL exits correctly on 'exit' command."""
-    # Simulate user entering 'exit'
     monkeypatch.setattr('builtins.input', lambda _: 'exit')
     app = App()
-    with pytest.raises(SystemExit) as e:
+    with pytest.raises(SystemExit):
         app.start()
-    assert e.type == SystemExit
 
 def test_app_start_unknown_command(capfd, monkeypatch):
     """Test how the REPL handles an unknown command before exiting."""
@@ -20,7 +18,7 @@ def test_app_start_unknown_command(capfd, monkeypatch):
 
     app = App()
 
-    with pytest.raises(SystemExit) as excinfo:
+    with pytest.raises(SystemExit):
         app.start()
 
     captured = capfd.readouterr()
