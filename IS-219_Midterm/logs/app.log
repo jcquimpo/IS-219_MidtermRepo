@@ -1074,6 +1074,7 @@
 2024-03-26 22:04:40,882 - root - INFO - The numbers subtracted are num1: 7.0 & num2: 7.0; the difference is 0.0
 2024-03-26 22:04:40,950 - root - INFO - The numbers multiplied are num1: 5.0 & num2: 7.0; the product is 35.0
 2024-03-26 22:04:41,013 - root - INFO - The numbers divided are num1: 7.0 & num2: 7.0; the quotient is 1.0
+<<<<<<< HEAD
 2024-03-26 22:30:45,954 - root - INFO - Logging configured.
 2024-03-26 22:30:47,568 - root - INFO - Application started. Type 'exit' to exit.
 2024-03-26 22:30:47,569 - root - INFO - Application exit.
@@ -1087,3 +1088,144 @@
 2024-03-26 22:30:47,615 - root - INFO - The numbers subtracted are num1: 7.0 & num2: 7.0; the difference is 0.0
 2024-03-26 22:30:47,627 - root - INFO - The numbers multiplied are num1: 5.0 & num2: 7.0; the product is 35.0
 2024-03-26 22:30:47,639 - root - INFO - The numbers divided are num1: 7.0 & num2: 7.0; the quotient is 1.0
+=======
+2024-03-27 15:19:46,296 - root - INFO - Logging configured.
+2024-03-27 15:23:05,921 - root - INFO - Logging configured.
+2024-03-27 15:25:29,017 - root - INFO - Logging configured.
+2024-03-27 15:25:37,388 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-27 15:25:45,992 - root - INFO - The numbers added are num1: 1.0 & num2: 1.0; the sum is 2.0
+2024-03-27 15:25:46,000 - root - INFO - Application shutdown.
+2024-03-27 15:27:02,834 - root - INFO - Logging configured.
+2024-03-27 15:27:15,188 - root - INFO - Logging configured.
+2024-03-27 15:27:17,142 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-27 15:27:22,617 - root - INFO - The numbers added are num1: 1.0 & num2: 1.0; the sum is 2.0
+2024-03-27 15:27:48,724 - root - INFO - List example: ['apple', 'banana', 'cherry']
+2024-03-27 15:27:48,724 - root - INFO - I pick an apple
+2024-03-27 15:27:48,724 - root - INFO - List after adding an item: ['apple', 'banana', 'cherry', 'date']
+2024-03-27 15:27:48,724 - root - INFO - Tuple example: (1, 2, 3, 4)
+2024-03-27 15:27:48,724 - root - INFO - Set example: {1, 2, 3, 4}
+2024-03-27 15:27:48,729 - root - INFO - whats different {1}
+2024-03-27 15:27:48,731 - root - INFO - Set after adding an item: {1, 2, 3, 4, 5}
+2024-03-27 15:27:48,731 - root - INFO - Dictionary example: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois'}
+2024-03-27 15:27:48,731 - root - INFO - Dictionary after adding a state: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois', 'NY': 'New York'}
+2024-03-27 15:27:48,736 - root - INFO - State Abbreviation: CA for: California
+2024-03-27 15:27:48,736 - root - INFO - State Abbreviation: NJ for: New Jersey
+2024-03-27 15:27:48,737 - root - INFO - State Abbreviation: TX for: Texas
+2024-03-27 15:27:48,740 - root - INFO - State Abbreviation: FL for: Florida
+2024-03-27 15:27:48,742 - root - INFO - State Abbreviation: IL for: Illinois
+2024-03-27 15:27:48,742 - root - INFO - State Abbreviation: NY for: New York
+2024-03-27 15:27:48,745 - root - INFO - State: CA
+2024-03-27 15:27:48,748 - root - INFO -     Capital: Sacramento
+2024-03-27 15:27:48,750 - root - INFO -     Population: 39538223
+2024-03-27 15:27:48,752 - root - INFO -     Great: No
+2024-03-27 15:27:48,754 - root - INFO - State: TX
+2024-03-27 15:27:48,760 - root - INFO -     Capital: Austin
+2024-03-27 15:27:48,762 - root - INFO -     Population: 29145505
+2024-03-27 15:27:48,767 - root - INFO -     Great: Yes
+2024-03-27 15:27:48,770 - root - INFO - State: NJ
+2024-03-27 15:27:48,771 - root - INFO -     Capital: Trenton
+2024-03-27 15:27:48,776 - root - INFO -     Population: 50
+2024-03-27 15:27:48,778 - root - INFO -     Great: Yes
+2024-03-27 15:27:48,782 - root - INFO -     Good hot dogs: yes
+2024-03-27 15:27:48,782 - root - INFO -     Where: Rutts hutt
+2024-03-27 15:27:50,534 - root - INFO - the relative path  to save my file is ./data\operation_history.csv
+2024-03-27 15:27:50,534 - root - INFO - the absolute path  to save my file is C:\Users\dmjmq\VSCode_Projects\IS-219_MidtermRepo\IS-219_Midterm\data\operation_history.csv
+2024-03-27 15:28:01,576 - root - INFO - The numbers added are num1: 2.0 & num2: 2.0; the sum is 4.0
+2024-03-27 15:28:06,051 - root - INFO - the relative path  to save my file is ./data\operation_history.csv
+2024-03-27 15:28:06,051 - root - INFO - the absolute path  to save my file is C:\Users\dmjmq\VSCode_Projects\IS-219_MidtermRepo\IS-219_Midterm\data\operation_history.csv
+2024-03-27 15:28:06,071 - root - INFO - No history of operations
+2024-03-27 15:28:09,042 - root - INFO - Application interrupted and exiting gracefully.
+2024-03-27 15:28:09,042 - root - INFO - Application shutdown.
+2024-03-27 15:31:20,360 - root - INFO - Logging configured.
+2024-03-27 15:31:22,551 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-27 15:32:09,443 - root - INFO - The numbers added are num1: 1.0 & num2: 1.0; the sum is 2.0
+2024-03-27 15:32:54,915 - root - INFO - The numbers added are num1: 1.0 & num2: 2.0; the sum is 3.0
+2024-03-27 15:33:12,279 - root - INFO - Application exit.
+2024-03-27 15:33:12,279 - root - INFO - Application shutdown.
+2024-03-27 15:33:15,238 - root - INFO - Logging configured.
+2024-03-27 15:33:17,587 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-27 15:33:40,756 - root - INFO - The numbers added are num1: 1.0 & num2: 1.0; the sum is 2.0
+2024-03-27 15:33:48,836 - root - INFO - The numbers subtracted are num1: 2.0 & num2: 1.0; the difference is 1.0
+2024-03-27 15:33:56,420 - root - INFO - The numbers multiplied are num1: 1.0 & num2: 3.0; the product is 3.0
+2024-03-27 15:34:03,218 - root - INFO - The numbers divided are num1: 2.0 & num2: 1.0; the quotient is 2.0
+2024-03-27 15:34:07,687 - root - INFO - Application shutdown.
+2024-03-27 15:35:46,377 - root - INFO - Logging configured.
+2024-03-27 15:35:48,244 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-27 15:35:52,030 - root - ERROR - Attempted to divide by zero.
+2024-03-27 15:35:59,648 - root - INFO - List example: ['apple', 'banana', 'cherry']
+2024-03-27 15:35:59,648 - root - INFO - I pick an apple
+2024-03-27 15:35:59,648 - root - INFO - List after adding an item: ['apple', 'banana', 'cherry', 'date']
+2024-03-27 15:35:59,648 - root - INFO - Tuple example: (1, 2, 3, 4)
+2024-03-27 15:35:59,651 - root - INFO - Set example: {1, 2, 3, 4}
+2024-03-27 15:35:59,651 - root - INFO - whats different {1}
+2024-03-27 15:35:59,651 - root - INFO - Set after adding an item: {1, 2, 3, 4, 5}
+2024-03-27 15:35:59,653 - root - INFO - Dictionary example: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois'}
+2024-03-27 15:35:59,653 - root - INFO - Dictionary after adding a state: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois', 'NY': 'New York'}
+2024-03-27 15:35:59,654 - root - INFO - State Abbreviation: CA for: California
+2024-03-27 15:35:59,654 - root - INFO - State Abbreviation: NJ for: New Jersey
+2024-03-27 15:35:59,654 - root - INFO - State Abbreviation: TX for: Texas
+2024-03-27 15:35:59,656 - root - INFO - State Abbreviation: FL for: Florida
+2024-03-27 15:35:59,656 - root - INFO - State Abbreviation: IL for: Illinois
+2024-03-27 15:35:59,656 - root - INFO - State Abbreviation: NY for: New York
+2024-03-27 15:35:59,659 - root - INFO - State: CA
+2024-03-27 15:35:59,660 - root - INFO -     Capital: Sacramento
+2024-03-27 15:35:59,661 - root - INFO -     Population: 39538223
+2024-03-27 15:35:59,662 - root - INFO -     Great: No
+2024-03-27 15:35:59,662 - root - INFO - State: TX
+2024-03-27 15:35:59,664 - root - INFO -     Capital: Austin
+2024-03-27 15:35:59,664 - root - INFO -     Population: 29145505
+2024-03-27 15:35:59,666 - root - INFO -     Great: Yes
+2024-03-27 15:35:59,667 - root - INFO - State: NJ
+2024-03-27 15:35:59,667 - root - INFO -     Capital: Trenton
+2024-03-27 15:35:59,667 - root - INFO -     Population: 50
+2024-03-27 15:35:59,670 - root - INFO -     Great: Yes
+2024-03-27 15:35:59,674 - root - INFO -     Good hot dogs: yes
+2024-03-27 15:35:59,674 - root - INFO -     Where: Rutts hutt
+2024-03-27 15:36:01,547 - root - INFO - the relative path  to save my file is ./data\operations_history.csv
+2024-03-27 15:36:01,547 - root - INFO - the absolute path  to save my file is C:\Users\dmjmq\VSCode_Projects\IS-219_MidtermRepo\IS-219_Midterm\data\operations_history.csv
+2024-03-27 15:36:01,560 - root - INFO - No history of operations
+2024-03-27 15:36:58,887 - root - INFO - the relative path  to save my file is ./data\operations_history.csv
+2024-03-27 15:36:58,890 - root - INFO - the absolute path  to save my file is C:\Users\dmjmq\VSCode_Projects\IS-219_MidtermRepo\IS-219_Midterm\data\operations_history.csv
+2024-03-27 15:36:58,934 - root - INFO - No history of operations
+2024-03-27 15:37:31,857 - root - INFO - Application interrupted and exiting gracefully.
+2024-03-27 15:37:31,858 - root - INFO - Application shutdown.
+2024-03-27 15:39:18,281 - root - INFO - Logging configured.
+2024-03-27 15:39:20,192 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-27 15:39:20,806 - root - INFO - the relative path  to save my file is ./data\operations_history.csv
+2024-03-27 15:39:20,806 - root - INFO - the absolute path  to save my file is C:\Users\dmjmq\VSCode_Projects\IS-219_MidtermRepo\IS-219_Midterm\data\operations_history.csv
+2024-03-27 15:39:20,832 - root - INFO - Record 0: add: 1.0, 1.0
+2024-03-27 15:39:20,832 - root - INFO - Index: 0,     Operation: add
+2024-03-27 15:39:20,839 - root - INFO - Index: 0,     Num1: 1.0
+2024-03-27 15:39:20,840 - root - INFO - Index: 0,     Num2: 1.0
+2024-03-27 15:39:20,840 - root - INFO - Sum of 1.0 and 1.0: 2.0
+2024-03-27 15:39:20,843 - root - INFO - Record 1: subtract: 2.0, 1.0
+2024-03-27 15:39:20,843 - root - INFO - Index: 1,     Operation: subtract
+2024-03-27 15:39:20,850 - root - INFO - Index: 1,     Num1: 2.0
+2024-03-27 15:39:20,854 - root - INFO - Index: 1,     Num2: 1.0
+2024-03-27 15:39:20,855 - root - INFO - Difference of 2.0 and 1.0: 1.0
+2024-03-27 15:39:20,859 - root - INFO - Record 2: multiply: 1.0, 3.0
+2024-03-27 15:39:20,862 - root - INFO - Index: 2,     Operation: multiply
+2024-03-27 15:39:20,864 - root - INFO - Index: 2,     Num1: 1.0
+2024-03-27 15:39:20,872 - root - INFO - Index: 2,     Num2: 3.0
+2024-03-27 15:39:20,872 - root - INFO - Product of 1.0 and 3.0: 3.0
+2024-03-27 15:39:20,877 - root - INFO - Record 3: divide: 2.0, 1.0
+2024-03-27 15:39:20,880 - root - INFO - Index: 3,     Operation: divide
+2024-03-27 15:39:20,882 - root - INFO - Index: 3,     Num1: 2.0
+2024-03-27 15:39:20,882 - root - INFO - Index: 3,     Num2: 1.0
+2024-03-27 15:39:20,885 - root - INFO - Quotient of 2.0 and 1.0: 2.0
+2024-03-27 15:40:21,532 - root - INFO - Application interrupted and exiting gracefully.
+2024-03-27 15:40:21,535 - root - INFO - Application shutdown.
+2024-03-27 15:40:41,215 - root - INFO - Logging configured.
+2024-03-27 15:40:43,188 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-27 15:40:43,188 - root - INFO - Application exit.
+2024-03-27 15:40:43,188 - root - INFO - Application shutdown.
+2024-03-27 15:40:43,215 - root - INFO - Environment variables loaded.
+2024-03-27 15:40:43,215 - root - INFO - Logging configured.
+2024-03-27 15:40:43,231 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-27 15:40:43,231 - root - INFO - Application exit.
+2024-03-27 15:40:43,231 - root - INFO - Application shutdown.
+2024-03-27 15:40:43,255 - root - INFO - The numbers added are num1: 5.0 & num2: 7.0; the sum is 12.0
+2024-03-27 15:40:43,452 - root - INFO - The numbers subtracted are num1: 7.0 & num2: 7.0; the difference is 0.0
+2024-03-27 15:40:43,520 - root - INFO - The numbers multiplied are num1: 5.0 & num2: 7.0; the product is 35.0
+2024-03-27 15:40:43,590 - root - INFO - The numbers divided are num1: 7.0 & num2: 7.0; the quotient is 1.0
+>>>>>>> 9dfa64b75bfa76278ad1789dd21269603b762a69
