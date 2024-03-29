@@ -1229,3 +1229,138 @@
 2024-03-27 15:40:43,520 - root - INFO - The numbers multiplied are num1: 5.0 & num2: 7.0; the product is 35.0
 2024-03-27 15:40:43,590 - root - INFO - The numbers divided are num1: 7.0 & num2: 7.0; the quotient is 1.0
 >>>>>>> 9dfa64b75bfa76278ad1789dd21269603b762a69
+2024-03-29 11:35:05,978 - root - INFO - Logging configured.
+2024-03-29 11:35:07,654 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 11:35:17,078 - root - INFO - Application exit.
+2024-03-29 11:35:17,078 - root - INFO - Application shutdown.
+2024-03-29 11:35:18,964 - root - INFO - Logging configured.
+2024-03-29 11:35:19,290 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 11:35:19,792 - root - INFO - Application interrupted and exiting gracefully.
+2024-03-29 11:35:19,792 - root - INFO - Application shutdown.
+2024-03-29 11:35:22,556 - root - INFO - Logging configured.
+2024-03-29 11:35:22,863 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 11:36:10,202 - root - INFO - The numbers added are num1: 1.0 & num2: 1.0; the sum is 2.0
+2024-03-29 11:36:24,002 - root - INFO - The numbers subtracted are num1: 5.0 & num2: 1.0; the difference is 4.0
+2024-03-29 11:36:33,657 - root - INFO - The numbers multiplied are num1: 3.0 & num2: 3.0; the product is 9.0
+2024-03-29 11:36:41,614 - root - INFO - The numbers divided are num1: 4.0 & num2: 2.0; the quotient is 2.0
+2024-03-29 11:36:50,193 - root - ERROR - Attempted to divide by zero.
+2024-03-29 11:37:10,151 - root - INFO - List example: ['apple', 'banana', 'cherry']
+2024-03-29 11:37:10,151 - root - INFO - I pick an apple
+2024-03-29 11:37:10,151 - root - INFO - List after adding an item: ['apple', 'banana', 'cherry', 'date']
+2024-03-29 11:37:10,151 - root - INFO - Tuple example: (1, 2, 3, 4)
+2024-03-29 11:37:10,151 - root - INFO - Set example: {1, 2, 3, 4}
+2024-03-29 11:37:10,152 - root - INFO - whats different {1}
+2024-03-29 11:37:10,152 - root - INFO - Set after adding an item: {1, 2, 3, 4, 5}
+2024-03-29 11:37:10,152 - root - INFO - Dictionary example: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois'}
+2024-03-29 11:37:10,152 - root - INFO - Dictionary after adding a state: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois', 'NY': 'New York'}
+2024-03-29 11:37:10,152 - root - INFO - State Abbreviation: CA for: California
+2024-03-29 11:37:10,152 - root - INFO - State Abbreviation: NJ for: New Jersey
+2024-03-29 11:37:10,153 - root - INFO - State Abbreviation: TX for: Texas
+2024-03-29 11:37:10,153 - root - INFO - State Abbreviation: FL for: Florida
+2024-03-29 11:37:10,153 - root - INFO - State Abbreviation: IL for: Illinois
+2024-03-29 11:37:10,153 - root - INFO - State Abbreviation: NY for: New York
+2024-03-29 11:37:10,153 - root - INFO - State: CA
+2024-03-29 11:37:10,153 - root - INFO -     Capital: Sacramento
+2024-03-29 11:37:10,154 - root - INFO -     Population: 39538223
+2024-03-29 11:37:10,154 - root - INFO -     Great: No
+2024-03-29 11:37:10,154 - root - INFO - State: TX
+2024-03-29 11:37:10,154 - root - INFO -     Capital: Austin
+2024-03-29 11:37:10,154 - root - INFO -     Population: 29145505
+2024-03-29 11:37:10,154 - root - INFO -     Great: Yes
+2024-03-29 11:37:10,155 - root - INFO - State: NJ
+2024-03-29 11:37:10,155 - root - INFO -     Capital: Trenton
+2024-03-29 11:37:10,155 - root - INFO -     Population: 50
+2024-03-29 11:37:10,155 - root - INFO -     Great: Yes
+2024-03-29 11:37:10,155 - root - INFO -     Good hot dogs: yes
+2024-03-29 11:37:10,156 - root - INFO -     Where: Rutts hutt
+2024-03-29 11:37:25,559 - root - INFO - the relative path  to save my file is ./data\operations_history.csv
+2024-03-29 11:37:25,559 - root - INFO - the absolute path  to save my file is D:\SCHOOL\VSCode\IS-219_MidtermRepo\IS-219_Midterm\data\operations_history.csv
+2024-03-29 11:37:25,565 - root - INFO - Application shutdown.
+2024-03-29 11:38:17,703 - root - INFO - Logging configured.
+2024-03-29 11:38:18,021 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 11:38:19,282 - root - INFO - the relative path  to save my file is ./data\operations_history.csv
+2024-03-29 11:38:19,282 - root - INFO - the absolute path  to save my file is D:\SCHOOL\VSCode\IS-219_MidtermRepo\IS-219_Midterm\data\operations_history.csv
+2024-03-29 11:38:19,283 - root - INFO - Application shutdown.
+2024-03-29 11:45:23,624 - root - INFO - Logging configured.
+2024-03-29 11:45:23,967 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 11:45:25,323 - root - INFO - The CSV file path is: ./data\operations_history.csv
+2024-03-29 11:45:25,324 - root - ERROR - Error parsing CSV file './data\operations_history.csv': Error tokenizing data. C error: Expected 3 fields in line 6, saw 4
+
+2024-03-29 11:45:28,456 - root - INFO - The CSV file path is: ./data\operations_history.csv
+2024-03-29 11:45:28,457 - root - ERROR - Error parsing CSV file './data\operations_history.csv': Error tokenizing data. C error: Expected 3 fields in line 6, saw 4
+
+2024-03-29 11:45:34,876 - root - INFO - The numbers added are num1: 1.0 & num2: 1.0; the sum is 2.0
+2024-03-29 11:45:36,371 - root - INFO - The CSV file path is: ./data\operations_history.csv
+2024-03-29 11:45:36,378 - root - ERROR - Error parsing CSV file './data\operations_history.csv': Error tokenizing data. C error: Expected 3 fields in line 6, saw 4
+
+2024-03-29 11:48:04,500 - root - INFO - The CSV file path is: ./data\operations_history.csv
+2024-03-29 11:48:04,510 - root - INFO - CSV file './data\operations_history.csv' read successfully.
+2024-03-29 11:48:32,560 - root - INFO - The CSV file path is: ./data\operations_history.csv
+2024-03-29 11:48:32,561 - root - INFO - CSV file './data\operations_history.csv' read successfully.
+2024-03-29 11:48:38,320 - root - INFO - Application interrupted and exiting gracefully.
+2024-03-29 11:48:38,320 - root - INFO - Application shutdown.
+2024-03-29 11:48:39,845 - root - INFO - Logging configured.
+2024-03-29 11:48:40,189 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 11:48:42,697 - root - INFO - The numbers added are num1: 1.0 & num2: 1.0; the sum is 2.0
+2024-03-29 11:48:44,161 - root - INFO - the relative path  to save my file is ./data\operations_history.csv
+2024-03-29 11:48:44,161 - root - INFO - the absolute path  to save my file is D:\SCHOOL\VSCode\IS-219_MidtermRepo\IS-219_Midterm\data\operations_history.csv
+2024-03-29 11:48:44,167 - root - INFO - Record subtract: 7.0: 7.0, 0.0
+2024-03-29 11:48:44,167 - root - INFO - Index: subtract,     Operation: 7.0
+2024-03-29 11:48:44,167 - root - INFO - Index: subtract,     Num1: 7.0
+2024-03-29 11:48:44,168 - root - INFO - Index: subtract,     Num2: 0.0
+2024-03-29 11:48:44,168 - root - INFO - No history of operations
+2024-03-29 11:49:24,140 - root - INFO - Application interrupted and exiting gracefully.
+2024-03-29 11:49:24,141 - root - INFO - Application shutdown.
+2024-03-29 11:50:12,126 - root - INFO - Logging configured.
+2024-03-29 11:50:12,478 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 11:50:22,756 - root - INFO - Application exit.
+2024-03-29 11:50:22,756 - root - INFO - Application shutdown.
+2024-03-29 11:50:24,411 - root - INFO - Logging configured.
+2024-03-29 11:50:24,727 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 11:50:25,544 - root - INFO - Application interrupted and exiting gracefully.
+2024-03-29 11:50:25,545 - root - INFO - Application shutdown.
+2024-03-29 11:50:27,542 - root - INFO - Logging configured.
+2024-03-29 11:50:27,861 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 11:51:15,544 - root - INFO - The numbers added are num1: 2.0 & num2: 1.0; the sum is 3.0
+2024-03-29 11:51:22,544 - root - INFO - The numbers subtracted are num1: 2.0 & num2: 1.0; the difference is 1.0
+2024-03-29 11:51:30,504 - root - INFO - The numbers multiplied are num1: 2.0 & num2: 2.0; the product is 4.0
+2024-03-29 11:51:37,436 - root - INFO - The numbers divided are num1: 2.0 & num2: 2.0; the quotient is 1.0
+2024-03-29 11:51:47,464 - root - ERROR - Attempted to divide by zero.
+2024-03-29 11:52:02,524 - root - INFO - List example: ['apple', 'banana', 'cherry']
+2024-03-29 11:52:02,524 - root - INFO - I pick an apple
+2024-03-29 11:52:02,524 - root - INFO - List after adding an item: ['apple', 'banana', 'cherry', 'date']
+2024-03-29 11:52:02,524 - root - INFO - Tuple example: (1, 2, 3, 4)
+2024-03-29 11:52:02,525 - root - INFO - Set example: {1, 2, 3, 4}
+2024-03-29 11:52:02,525 - root - INFO - whats different {1}
+2024-03-29 11:52:02,525 - root - INFO - Set after adding an item: {1, 2, 3, 4, 5}
+2024-03-29 11:52:02,525 - root - INFO - Dictionary example: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois'}
+2024-03-29 11:52:02,525 - root - INFO - Dictionary after adding a state: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois', 'NY': 'New York'}
+2024-03-29 11:52:02,525 - root - INFO - State Abbreviation: CA for: California
+2024-03-29 11:52:02,525 - root - INFO - State Abbreviation: NJ for: New Jersey
+2024-03-29 11:52:02,526 - root - INFO - State Abbreviation: TX for: Texas
+2024-03-29 11:52:02,526 - root - INFO - State Abbreviation: FL for: Florida
+2024-03-29 11:52:02,526 - root - INFO - State Abbreviation: IL for: Illinois
+2024-03-29 11:52:02,526 - root - INFO - State Abbreviation: NY for: New York
+2024-03-29 11:52:02,526 - root - INFO - State: CA
+2024-03-29 11:52:02,526 - root - INFO -     Capital: Sacramento
+2024-03-29 11:52:02,526 - root - INFO -     Population: 39538223
+2024-03-29 11:52:02,527 - root - INFO -     Great: No
+2024-03-29 11:52:02,527 - root - INFO - State: TX
+2024-03-29 11:52:02,527 - root - INFO -     Capital: Austin
+2024-03-29 11:52:02,527 - root - INFO -     Population: 29145505
+2024-03-29 11:52:02,527 - root - INFO -     Great: Yes
+2024-03-29 11:52:02,528 - root - INFO - State: NJ
+2024-03-29 11:52:02,528 - root - INFO -     Capital: Trenton
+2024-03-29 11:52:02,528 - root - INFO -     Population: 50
+2024-03-29 11:52:02,528 - root - INFO -     Great: Yes
+2024-03-29 11:52:02,528 - root - INFO -     Good hot dogs: yes
+2024-03-29 11:52:02,529 - root - INFO -     Where: Rutts hutt
+2024-03-29 11:52:35,608 - root - INFO - the relative path  to save my file is ./data\operations_history.csv
+2024-03-29 11:52:35,608 - root - INFO - the absolute path  to save my file is D:\SCHOOL\VSCode\IS-219_MidtermRepo\IS-219_Midterm\data\operations_history.csv
+2024-03-29 11:52:35,616 - root - INFO - Record subtract: 7.0: 7.0, 0.0
+2024-03-29 11:52:35,616 - root - INFO - Index: subtract,     Operation: 7.0
+2024-03-29 11:52:35,616 - root - INFO - Index: subtract,     Num1: 7.0
+2024-03-29 11:52:35,617 - root - INFO - Index: subtract,     Num2: 0.0
+2024-03-29 11:52:35,617 - root - INFO - No history of operations
+2024-03-29 11:53:17,976 - root - INFO - Application interrupted and exiting gracefully.
+2024-03-29 11:53:17,976 - root - INFO - Application shutdown.
