@@ -1,4 +1,4 @@
-Operation,Num1,Num2
+Operation,Num1,Num2,Result
 subtract,7.0,7.0,0.0
 multiply,5.0,7.0,35.0
 divide,7.0,7.0,1.0

@@ -1364,3 +1364,87 @@
 2024-03-29 11:52:35,617 - root - INFO - No history of operations
 2024-03-29 11:53:17,976 - root - INFO - Application interrupted and exiting gracefully.
 2024-03-29 11:53:17,976 - root - INFO - Application shutdown.
+2024-03-29 11:59:39,167 - root - INFO - Logging configured.
+2024-03-29 11:59:39,475 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 11:59:40,350 - root - INFO - the relative path  to save my file is ./data\operations_history.csv
+2024-03-29 11:59:40,350 - root - INFO - the absolute path  to save my file is D:\SCHOOL\VSCode\IS-219_MidtermRepo\IS-219_Midterm\data\operations_history.csv
+2024-03-29 11:59:40,358 - root - INFO - Record 0: subtract: 7.0, 7.0
+2024-03-29 11:59:40,358 - root - INFO - Index: 0,     Operation: subtract
+2024-03-29 11:59:40,359 - root - INFO - Index: 0,     Num1: 7.0
+2024-03-29 11:59:40,359 - root - INFO - Index: 0,     Num2: 7.0
+2024-03-29 11:59:40,359 - root - INFO - Index: 0,     Result: 0.0
+2024-03-29 11:59:40,359 - root - INFO - Difference of 7.0 and 7.0: 0.0
+2024-03-29 11:59:40,360 - root - INFO - Record 1: multiply: 5.0, 7.0
+2024-03-29 11:59:40,360 - root - INFO - Index: 1,     Operation: multiply
+2024-03-29 11:59:40,360 - root - INFO - Index: 1,     Num1: 5.0
+2024-03-29 11:59:40,360 - root - INFO - Index: 1,     Num2: 7.0
+2024-03-29 11:59:40,361 - root - INFO - Index: 1,     Result: 35.0
+2024-03-29 11:59:40,361 - root - INFO - Product of 5.0 and 7.0: 35.0
+2024-03-29 11:59:40,361 - root - INFO - Record 2: divide: 7.0, 7.0
+2024-03-29 11:59:40,361 - root - INFO - Index: 2,     Operation: divide
+2024-03-29 11:59:40,361 - root - INFO - Index: 2,     Num1: 7.0
+2024-03-29 11:59:40,362 - root - INFO - Index: 2,     Num2: 7.0
+2024-03-29 11:59:40,362 - root - INFO - Index: 2,     Result: 1.0
+2024-03-29 11:59:40,362 - root - INFO - Quotient of 7.0 and 7.0: 1.0
+2024-03-29 11:59:40,363 - root - INFO - Record 3: add: 1.0, 1.0
+2024-03-29 11:59:40,363 - root - INFO - Index: 3,     Operation: add
+2024-03-29 11:59:40,363 - root - INFO - Index: 3,     Num1: 1.0
+2024-03-29 11:59:40,363 - root - INFO - Index: 3,     Num2: 1.0
+2024-03-29 11:59:40,364 - root - INFO - Index: 3,     Result: 2.0
+2024-03-29 11:59:40,364 - root - INFO - Sum of 1.0 and 1.0: 2.0
+2024-03-29 11:59:40,364 - root - INFO - Record 4: subtract: 5.0, 1.0
+2024-03-29 11:59:40,365 - root - INFO - Index: 4,     Operation: subtract
+2024-03-29 11:59:40,365 - root - INFO - Index: 4,     Num1: 5.0
+2024-03-29 11:59:40,365 - root - INFO - Index: 4,     Num2: 1.0
+2024-03-29 11:59:40,365 - root - INFO - Index: 4,     Result: 4.0
+2024-03-29 11:59:40,366 - root - INFO - Difference of 5.0 and 1.0: 4.0
+2024-03-29 11:59:40,366 - root - INFO - Record 5: multiply: 3.0, 3.0
+2024-03-29 11:59:40,366 - root - INFO - Index: 5,     Operation: multiply
+2024-03-29 11:59:40,366 - root - INFO - Index: 5,     Num1: 3.0
+2024-03-29 11:59:40,367 - root - INFO - Index: 5,     Num2: 3.0
+2024-03-29 11:59:40,367 - root - INFO - Index: 5,     Result: 9.0
+2024-03-29 11:59:40,367 - root - INFO - Product of 3.0 and 3.0: 9.0
+2024-03-29 11:59:40,367 - root - INFO - Record 6: divide: 4.0, 2.0
+2024-03-29 11:59:40,367 - root - INFO - Index: 6,     Operation: divide
+2024-03-29 11:59:40,368 - root - INFO - Index: 6,     Num1: 4.0
+2024-03-29 11:59:40,368 - root - INFO - Index: 6,     Num2: 2.0
+2024-03-29 11:59:40,368 - root - INFO - Index: 6,     Result: 2.0
+2024-03-29 11:59:40,368 - root - INFO - Quotient of 4.0 and 2.0: 2.0
+2024-03-29 11:59:40,369 - root - INFO - Record 7: add: 1.0, 1.0
+2024-03-29 11:59:40,369 - root - INFO - Index: 7,     Operation: add
+2024-03-29 11:59:40,369 - root - INFO - Index: 7,     Num1: 1.0
+2024-03-29 11:59:40,369 - root - INFO - Index: 7,     Num2: 1.0
+2024-03-29 11:59:40,369 - root - INFO - Index: 7,     Result: 2.0
+2024-03-29 11:59:40,369 - root - INFO - Sum of 1.0 and 1.0: 2.0
+2024-03-29 11:59:40,370 - root - INFO - Record 8: add: 1.0, 1.0
+2024-03-29 11:59:40,370 - root - INFO - Index: 8,     Operation: add
+2024-03-29 11:59:40,370 - root - INFO - Index: 8,     Num1: 1.0
+2024-03-29 11:59:40,370 - root - INFO - Index: 8,     Num2: 1.0
+2024-03-29 11:59:40,371 - root - INFO - Index: 8,     Result: 2.0
+2024-03-29 11:59:40,371 - root - INFO - Sum of 1.0 and 1.0: 2.0
+2024-03-29 11:59:40,371 - root - INFO - Record 9: add: 2.0, 1.0
+2024-03-29 11:59:40,371 - root - INFO - Index: 9,     Operation: add
+2024-03-29 11:59:40,371 - root - INFO - Index: 9,     Num1: 2.0
+2024-03-29 11:59:40,372 - root - INFO - Index: 9,     Num2: 1.0
+2024-03-29 11:59:40,372 - root - INFO - Index: 9,     Result: 3.0
+2024-03-29 11:59:40,372 - root - INFO - Sum of 2.0 and 1.0: 3.0
+2024-03-29 11:59:40,372 - root - INFO - Record 10: subtract: 2.0, 1.0
+2024-03-29 11:59:40,372 - root - INFO - Index: 10,     Operation: subtract
+2024-03-29 11:59:40,373 - root - INFO - Index: 10,     Num1: 2.0
+2024-03-29 11:59:40,373 - root - INFO - Index: 10,     Num2: 1.0
+2024-03-29 11:59:40,373 - root - INFO - Index: 10,     Result: 1.0
+2024-03-29 11:59:40,373 - root - INFO - Difference of 2.0 and 1.0: 1.0
+2024-03-29 11:59:40,373 - root - INFO - Record 11: multiply: 2.0, 2.0
+2024-03-29 11:59:40,374 - root - INFO - Index: 11,     Operation: multiply
+2024-03-29 11:59:40,374 - root - INFO - Index: 11,     Num1: 2.0
+2024-03-29 11:59:40,374 - root - INFO - Index: 11,     Num2: 2.0
+2024-03-29 11:59:40,374 - root - INFO - Index: 11,     Result: 4.0
+2024-03-29 11:59:40,375 - root - INFO - Product of 2.0 and 2.0: 4.0
+2024-03-29 11:59:40,375 - root - INFO - Record 12: divide: 2.0, 2.0
+2024-03-29 11:59:40,375 - root - INFO - Index: 12,     Operation: divide
+2024-03-29 11:59:40,375 - root - INFO - Index: 12,     Num1: 2.0
+2024-03-29 11:59:40,376 - root - INFO - Index: 12,     Num2: 2.0
+2024-03-29 11:59:40,376 - root - INFO - Index: 12,     Result: 1.0
+2024-03-29 11:59:40,376 - root - INFO - Quotient of 2.0 and 2.0: 1.0
+2024-03-29 11:59:49,486 - root - INFO - Application interrupted and exiting gracefully.
+2024-03-29 11:59:49,486 - root - INFO - Application shutdown.
